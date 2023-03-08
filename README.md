@@ -24,7 +24,7 @@ Soy una estudiante guatemalteca, dispuesta a seguir aprendiendo y adquiriendo m�
 -------------------------------------------------------------------------------------------------------------------------------
 
 ###CONTACTO
-#####  :tw-1f465:  ㅤ[Instagram](https://instagram.com/k.tellesz_?igshid=MDM4ZDc5MmU= "Instagram")
+#####  👤 ㅤ[Instagram](https://instagram.com/k.tellesz_?igshid=MDM4ZDc5MmU= "Instagram")
 
 -------------------------------------------------------------------------------------------------------------------------------
 
