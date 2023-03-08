@@ -3,7 +3,7 @@
 Soy una estudiante guatemalteca, dispuesta a seguir aprendiendo y adquiriendo más conocimientos sobre el mundo de la tecnología, soy una persona con mucha iniciativa y liderazgo.
 ㅤ
 
-#### MIS VALORES:
+* **MIS VALORES:**
 - Responsable
 - Honesta
 - Perseverante
@@ -23,7 +23,7 @@ Soy una estudiante guatemalteca, dispuesta a seguir aprendiendo y adquiriendo m�
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-#### CONTACTO:
+### CONTACTO:
 #####  👤 ㅤ[Instagram](https://instagram.com/k.tellesz_?igshid=MDM4ZDc5MmU= "Instagram")
 
 -------------------------------------------------------------------------------------------------------------------------------
