@@ -1,16 +1,16 @@
-## HELLO LOVERS, MY NAME IS KEILY TELLES :fa-smile-o:
+## HELLO LOVERS, MY NAME IS KEILY TELLES⚡.
 
 Soy una estudiante guatemalteca, dispuesta a seguir aprendiendo y adquiriendo más conocimientos sobre el mundo de la tecnología, soy una persona con mucha iniciativa y liderazgo.
 ㅤ
 
 #### MIS VALORES:
-> Responsable
-> Honesta
-> Perseverante
-> Puntual
-> Agradecida
-> Empática
-> Colaboradora 
+- Responsable
+- Honesta
+- Perseverante
+- Puntual
+- Agradecida
+- Empática
+- Colaboradora 
 
 ㅤ
 * **Lenguajes en los cuales tengo algunos conocimientos:**
@@ -21,12 +21,12 @@ Soy una estudiante guatemalteca, dispuesta a seguir aprendiendo y adquiriendo m�
 	* Java
 	* Entre otros.
 
-[========]
+-------------------------------------------------------------------------------------------------------------------------------
 
 ###CONTACTO
 #####  :tw-1f465:  ㅤ[Instagram](https://instagram.com/k.tellesz_?igshid=MDM4ZDc5MmU= "Instagram")
 
-[========]
+-------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **kbtelles/kbtelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
